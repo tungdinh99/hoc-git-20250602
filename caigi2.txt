@@ -1,0 +1,3 @@
+tiep tuc den voi file thu 2
+hoc git
+them file mới
